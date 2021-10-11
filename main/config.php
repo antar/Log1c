@@ -6,13 +6,13 @@ define('db_user','');
 // database password
 define('db_pass','');
 // database name
-define('db_name','log1c');
+define('db_name','');
 // database charset
 define('db_charset','utf8');
 // account activation required?
-define('account_activation',true);
+define('account_activation',false);
 // mail from
-define('mail_from','');
+define('mail_from','Admin <your@mail.com>');
 // activation link
-define('activation_link','https://yourdomain/activate.php');
+define('activation_link','https://yourdomain.com/activate.php');
 ?>
