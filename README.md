@@ -1,4 +1,5 @@
 # Log1c
+https://log1c.c3f3.com/
 
 ### Installation
 
@@ -14,17 +15,6 @@ You need to change the config.php file to your preferences.
 
 Grab the files and put them on your PHP environment.
 
-### Functions
-
-These functions are avaiable:
-
-```
-Create Admin Account (only with a E-mail confirmation)
-Create Member Account (only with a E-mail confirmation)
-Edit preferences
-Manage with Admin Account whole System
-```
-
-## Authors
+## Author
 
 * **antar** - *Initial work* - [antar](https://github.com/antar)
