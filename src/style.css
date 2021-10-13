@@ -192,6 +192,10 @@ body.loggedin {
   background-color: #fff;
 }
 
+.center {
+  text-align: center;
+}
+
 .content .block table {
   width: 100%;
 }
